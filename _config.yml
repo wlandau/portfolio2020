@@ -11,8 +11,8 @@ blinda: "a"
 
 
 title: William Michael Landau
-baseurl: ""
-url: "https://wlandau.github.io/portfolio2020"
+baseurl: "/portfolio/"
+url: "https://wlandau.github.io/portfolio2020/index.html"
 github: "https://github.com/wlandau/portfolio2020"
 
 kramdown:
